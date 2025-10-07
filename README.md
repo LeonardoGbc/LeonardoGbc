@@ -1,44 +1,41 @@
-# Olá, sou [Seu Nome]! 👋
+💻 Desenvolvedor de Software | Full-Stack & Systems
+Sou um programador apaixonado por transformar lógica em software funcional. Meu foco está em construir aplicações robustas e eficientes, aplicando os melhores princípios de engenharia de software em cada linha de código.
 
-🎓 **[Sua Formação/Área de Estudo]** | 💻 **[Seu Cargo ou Área de Atuação]**  
-🔭 Atualmente trabalhando em: [Projeto Atual](link-do-projeto)  
-🌱 Aprendendo mais sobre: **[Tecnologia atual]**  
-📫 Como me encontrar: [leosilvasenai@gmail.com](mailto:leosilvasenai@gmail.com)  
-🌐 [Meu Portfólio](link-do-portfolio)
+Minha jornada me equipou com um conjunto diversificado de linguagens, permitindo-me atuar desde o desenvolvimento front-end até a programação de sistemas de baixo nível.
 
----
+🧠 Stack de Programação Detalhada
+Minhas habilidades abrangem as principais áreas do desenvolvimento moderno e clássico:
 
-### 🚀 Principais Tecnologias que Uso:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+🌐 Desenvolvimento Web & Full-Stack
+HTML e CSS: A fundação sólida para interfaces de usuário, garantindo acessibilidade e design responsivo.
 
----
+JavaScript: A espinha dorsal do front-end dinâmico e essencial para o desenvolvimento back-end (Node.js/Express, etc.).
 
-### 📊 Estatísticas do GitHub
+⚙️ Linguagens de Sistema e Aplicações
+Python: Minha ferramenta preferida para desenvolvimento backend rápido, scripting e automação complexa.
 
-Aqui estão minhas estatísticas de contribuições no GitHub:
+Java: Foco em sistemas empresariais, arquitetura orientada a objetos (OOP) e aplicações escaláveis e enterprise-grade.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+C++: Utilizado para projetos que exigem alta performance, controle de memória e programação de baixo nível.
 
-#### **Linguagens mais usadas**:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&langs_count=10&layout=compact&theme=radical)
+🔒 O Código com Mentalidade de Segurança
+Embora meu foco seja em programação, integro os princípios de Cyber Security em meu processo de desenvolvimento. Isso significa que estou constantemente atento a:
 
----
+Escrita de código seguro (Secure Coding).
 
-### 🔧 Projetos em Destaque:
-1. [**Projeto 1**](https://github.com/seu-usuario/projeto1) - **Descrição breve do projeto 1.**
-2. [**Projeto 2**](https://github.com/seu-usuario/projeto2) - **Descrição breve do projeto 2.**
-3. [**Projeto 3**](https://github.com/seu-usuario/projeto3) - **Descrição breve do projeto 3.**
+Validação robusta de inputs.
 
----
+Proteção contra vulnerabilidades comuns (OWASP Top 10).
 
-### 🌱 Meu Progressso:
-**Streaks de Contribuições**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+Para mim, construir um sistema é inseparável de construir um sistema seguro.
 
----
+🚀 Últimos Projetos
+Explore meus repositórios para ver exemplos práticos de:
 
-### 📍 Entre em Contato:
-- **LinkedIn**: [Seu LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/leonardosilv4/))
+Implementações de APIs RESTful usando Python ou JavaScript.
+
+Projetos complexos em Java que demonstram padrões de design.
+
+Desafios de performance e estruturas de dados em C++.
+
+Fico feliz em colaborar em projetos que exijam qualidade, performance e, acima de tudo, programação inteligente!
