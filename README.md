@@ -37,12 +37,12 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Front-end (UI/UX)
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </a>
 
 ### Back-end & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
 </a>
 
 ### Segurança, IA & Infraestrutura
