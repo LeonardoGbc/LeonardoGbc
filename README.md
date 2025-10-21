@@ -1,41 +1,47 @@
-💻 Desenvolvedor de Software | Full-Stack & Systems
-Sou um programador apaixonado por transformar lógica em software funcional. Meu foco está em construir aplicações robustas e eficientes, aplicando os melhores princípios de engenharia de software em cada linha de código.
+# Perfil Interativo (Frontend-first) — React + Vite (frontend) + Express (backend)
 
-Minha jornada me equipou com um conjunto diversificado de linguagens, permitindo-me atuar desde o desenvolvimento front-end até a programação de sistemas de baixo nível.
+Este projeto é uma base para um perfil interativo focado em front-end, com um backend leve para:
+- buscar repos públicos do GitHub (proxy -> permite usar token e evitar CORS);
+- buscar uma "quote of the day";
+- receber um formulário de contato (opcional: enviar por e-mail via SMTP).
 
-🧠 Stack de Programação Detalhada
-Minhas habilidades abrangem as principais áreas do desenvolvimento moderno e clássico:
+Estrutura:
+- frontend/ — app React + Vite (UI principal, widgets, formulários)
+- backend/ — API Express (endpoints: /api/repos, /api/quote, /api/contact)
 
-🌐 Desenvolvimento Web & Full-Stack
-HTML e CSS: A fundação sólida para interfaces de usuário, garantindo acessibilidade e design responsivo.
+Rápido para rodar (local):
+1) Backend
+   - cd backend
+   - copie .env.example -> .env e preencha (opcional: GITHUB_TOKEN, SMTP_*)
+   - npm install
+   - npm start
+   - API estará em http://localhost:4000 por padrão
 
-JavaScript: A espinha dorsal do front-end dinâmico e essencial para o desenvolvimento back-end (Node.js/Express, etc.).
+2) Frontend
+   - cd frontend
+   - npm install
+   - npm run dev
+   - Frontend em http://localhost:5173 (ou porta do Vite)
 
-⚙️ Linguagens de Sistema e Aplicações
-Python: Minha ferramenta preferida para desenvolvimento backend rápido, scripting e automação complexa.
+Endpoints úteis:
+- GET /api/repos?user=<github-username>  -> lista de repositórios (top 5 por estrelas)
+- GET /api/quote                         -> quote aleatória
+- POST /api/contact                      -> body JSON { name, email, message }
 
-Java: Foco em sistemas empresariais, arquitetura orientada a objetos (OOP) e aplicações escaláveis e enterprise-grade.
+Deploy:
+- Frontend pode ir para GitHub Pages, Vercel ou Netlify.
+- Backend pode ir para Render, Fly, Heroku, Railway, Vercel Serverless, etc.
+- Para produção, defina GITHUB_TOKEN para aumentar limites da API do GitHub e configure SMTP se quiser receber emails.
 
-C++: Utilizado para projetos que exigem alta performance, controle de memória e programação de baixo nível.
+Personalizações que posso fazer:
+- transformar em TypeScript;
+- usar Tailwind CSS ou component library (Chakra/Material);
+- adicionar widget “Now Playing” (Spotify), WakaTime, últimas postagens do blog;
+- criar workflow GitHub Actions para atualizar seções do README automaticamente.
 
-🔒 O Código com Mentalidade de Segurança
-Embora meu foco seja em programação, integro os princípios de Cyber Security em meu processo de desenvolvimento. Isso significa que estou constantemente atento a:
+Quer que eu:
+1) Crie um repositório e abra PR com esses arquivos no seu GitHub (preciso do owner/repo)?  
+2) Só entregue os arquivos (vou enviar aqui) pra você subir?  
+3) Configure deploy (preciso de acesso ou instruções de deploy)?
 
-Escrita de código seguro (Secure Coding).
-
-Validação robusta de inputs.
-
-Proteção contra vulnerabilidades comuns (OWASP Top 10).
-
-Para mim, construir um sistema é inseparável de construir um sistema seguro.
-
-🚀 Últimos Projetos
-Explore meus repositórios para ver exemplos práticos de:
-
-Implementações de APIs RESTful usando Python ou JavaScript.
-
-Projetos complexos em Java que demonstram padrões de design.
-
-Desafios de performance e estruturas de dados em C++.
-
-Fico feliz em colaborar em projetos que exijam qualidade, performance e, acima de tudo, programação inteligente!
+Me diga qual opção prefere e eu prossigo.
