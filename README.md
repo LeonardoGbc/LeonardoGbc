@@ -1,25 +1,34 @@
-<div align="center">
-
 # 👋 Olá, eu sou [Seu Nome]!
 
-**Desenvolvedor Full-Stack | Foco em Front-end | Estudante SENAI**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
-
-</div>
+### Desenvolvedor Full-Stack | Foco em Front-end | Estudante Técnico SENAI
 
 ---
 
-<br>
+## 📞 Contato & Disponibilidade para Projetos
 
-<div align="center">
+Estou ativamente buscando oportunidades de desenvolvimento (freelance e parcerias). Sinta-se à vontade para entrar em contato:
 
-## 💻 Stack de Habilidades (Minhas Ferramentas de Trabalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
-### Front-end (Foco Principal: UI/UX)
+---
+
+## 🚀 Sobre Mim: Visão do Cliente
+
+Minha expertise está em transformar a visão de um negócio em uma **aplicação funcional e agradável**.
+
+- **Foco Principal (Front-end):** Especializado em criar interfaces **intuitivas, responsivas e elegantes** utilizando as bibliotecas e frameworks mais atuais. Entrego performance e experiência do usuário (UX) de alta qualidade.
+- **Back-end:** Construo APIs e sistemas robustos, escaláveis e seguros, garantindo a integração perfeita entre Front e Back.
+- **Aprendizado Contínuo (SENAI):** Como estudante do curso Técnico, trago as **melhores práticas** e os fundamentos mais sólidos do mercado de desenvolvimento de sistemas para cada projeto.
+
+---
+
+## 💻 Stack de Tecnologias
+
+Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
+
+### Front-end (UI/UX)
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,vite" />
 </a>
@@ -29,50 +38,25 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase" />
 </a>
 
-### Ferramentas, Devops & Aprendizado SENAI
+### Ferramentas, Versionamento & Cloud
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,gcp" />
 </a>
 
-</div>
-
 ---
 
-<br>
+## 📊 Atividade no GitHub (Comprometimento)
 
-<div align="center">
+Minhas estatísticas demonstram a consistência e dedicação ao desenvolvimento.
 
-## 🎯 Foco e Jornada SENAI
-
-* **Estudante Técnico:** Atualmente no **SENAI** aprimorando a base teórica e prática em **Desenvolvimento de Sistemas**.
-* **Front-end:** Especializado em transformar designs de **Figma/XD** em interfaces dinâmicas, responsivas e acessíveis (React/Next.js).
-* **Projetos:** Busco ativamente projetos independentes (freelance) e parcerias para aplicar a stack Full-Stack.
-* **Meta:** Entregar código limpo, eficiente e soluções de alto valor para meus clientes.
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-## 📊 Minha Atividade no GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vue&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vue&hide_border=true&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vue&hide_border=true&langs_count=6&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
 ---
 
-<br>
+## 📌 Projetos em Destaque
 
-<div align="center">
+**Atenção:** Use o recurso de **Pinned Repositories** do GitHub para destacar seus 6 melhores projetos acima desta seção. Certifique-se de que cada projeto pinado tenha um README detalhado, com **screenshot e link de demo!**
 
-<p>
-  🚀 <strong>Dica:</strong> Não se esqueça de usar o recurso "Pinned Repositories" (abaixo do seu nome) para fixar seus 6 melhores projetos.
-</p>
-
-</div>
+---
