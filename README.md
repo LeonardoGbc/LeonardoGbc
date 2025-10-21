@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFQhW0v9656gO20WlM/giphy.gif" width="150" alt="Instrutor de TI Coding GIF"/>
-  <h1>Olá! Eu sou [Seu Nome] 👋</h1>
-  <h2>Instrutor & Analista de Suporte de Campo | Full Stack Dev (Foco em Front-end)</h2>
+  <h1>Olá! Eu me chamo Leonardo Silva 👋</h1>
+  <h2>Full Stack Dev (Foco em Front-end)</h2>
 </div>
 
 ---
