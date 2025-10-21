@@ -8,13 +8,19 @@
 
 Estou ativamente buscando oportunidades de desenvolvimento (freelance e parcerias). Sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosilv4/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoleosilva.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
-## 🚀 Sobre Mim: Visão do Cliente
+## 👤 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente aprimorando minhas habilidades no **Curso Técnico em Desenvolvimento de Sistemas no SENAI**. Minha jornada de aprendizado é focada em construir soluções **Full-Stack** com ênfase especial na qualidade e usabilidade do **Front-end**. Meu objetivo é transformar ideias em aplicações digitais eficientes e visualmente atraentes, unindo o rigor técnico da formação do SENAI com as necessidades dinâmicas do mercado.
+
+---
+
+## 🚀 Minha Proposta de Valor: Visão do Cliente
 
 Minha expertise está em transformar a visão de um negócio em uma **aplicação funcional e agradável**.
 
@@ -58,5 +64,3 @@ Minhas estatísticas demonstram a consistência e dedicação ao desenvolvimento
 ## 📌 Projetos em Destaque
 
 **Atenção:** Use o recurso de **Pinned Repositories** do GitHub para destacar seus 6 melhores projetos acima desta seção. Certifique-se de que cada projeto pinado tenha um README detalhado, com **screenshot e link de demo!**
-
----
