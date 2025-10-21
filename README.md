@@ -42,7 +42,7 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Back-end & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
 </a>
 
 ### Segurança, IA & Infraestrutura
