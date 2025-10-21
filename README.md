@@ -8,8 +8,8 @@
 
 Estou ativamente buscando oportunidades de desenvolvimento (freelance e parcerias). Sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/leonardosilv4/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoleosilva.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 ---
@@ -47,12 +47,12 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Segurança, IA & Infraestrutura
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,chatgpt,gemini,aws,windows" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,ai,gcp,aws,windows" />
 </a>
 
 ---
 
-## 📊 Atividade no GitHub (Comprometimento)
+## 📊 Minhas Badges
 
 Minhas estatísticas demonstram a consistência e dedicação ao desenvolvimento.
 
@@ -62,8 +62,6 @@ Minhas estatísticas demonstram a consistência e dedicação ao desenvolvimento
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Meus Projetos
 
-**Atenção:** Use o recurso de **Pinned Repositories** do GitHub para destacar seus 6 melhores projetos acima desta seção. Certifique-se de que cada projeto pinado tenha um README detalhado, com **screenshot e link de demo!**
-
-perfeito, só adicione redes
+**Atenção:** Use o recurso de **Pinned Repositories** do GitHub para destacar seus 6 melhores projetos abaixo. Certifique-se de que cada projeto pinado tenha um README detalhado, com **screenshot e link de demo!**
