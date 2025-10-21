@@ -47,7 +47,7 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Segurança, IA & Infraestrutura
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,gcp,windows,kali,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,windows" />
 </a>
 
 ---
