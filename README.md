@@ -47,13 +47,8 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Segurança, IA & Infraestrutura
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,gcp,windows,kali,tensorflow" />
 </a>
-<br>
-<img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-Preven%C3%A7%C3%A3o-000000?style=for-the-badge&logo=securityadvisor&logoColor=white" alt="Cibersegurança" />
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-Machine_Learning-FF6700?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Inteligência Artificial" />
-<img src="https://img.shields.io/badge/OS_Profissional-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-
 
 ---
 
