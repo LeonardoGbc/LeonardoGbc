@@ -16,7 +16,7 @@ Estou ativamente buscando oportunidades de desenvolvimento (freelance e parceria
 
 ## 👤 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente aprimorando minhas habilidades no **Curso Técnico em Desenvolvimento de Sistemas no SENAI**. Minha abordagem é **Full-Stack**, com foco na qualidade do **Front-end**, mas com uma base sólida em **Cibersegurança** e conceitos de **Inteligência Artificial (IA)**. Meu conhecimento em sistemas operacionais como **Windows** complementa minha capacidade de construir e manter ambientes de desenvolvimento seguros e eficientes. Meu objetivo é transformar ideias em aplicações digitais eficientes e visualmente atraentes.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente aprimorando minhas habilidades no **Curso Técnico em Desenvolvimento de Sistemas no SENAI**. Minha abordagem é **Full-Stack**, com foco na qualidade do **Front-end**, mas com uma base sólida em **Cibersegurança** e conceitos de **Inteligência Artificial (IA)**. Meu conhecimento em sistemas operacionais como **Windows** e em **Redes de Computadores** complementa minha capacidade de construir e manter ambientes de desenvolvimento seguros e eficientes. Meu objetivo é transformar ideias em aplicações digitais eficientes e visualmente atraentes.
 
 ---
 
@@ -27,7 +27,7 @@ Minha expertise está em transformar a visão de um negócio em uma **aplicaçã
 - **Foco Principal (Front-end):** Especializado em criar interfaces **intuitivas, responsivas e elegantes** utilizando as bibliotecas e frameworks mais atuais.
 - **Segurança Integrada:** Aplico conceitos de **Cibersegurança** desde a codificação até o deploy, garantindo a robustez da aplicação.
 - **Inovação com IA:** Utilizo fundamentos de **Inteligência Artificial** para integrar funcionalidades inteligentes e otimizar processos (APIs de Machine Learning, etc.).
-- **Ambiente Operacional:** Proficiência em ambientes **Windows** e infraestrutura Linux/Cloud para desenvolvimento e suporte.
+- **Ambiente Operacional e Redes:** Proficiência em ambientes **Windows** e conceitos de **Redes de Computadores** para desenvolvimento, suporte e infraestrutura.
 
 ---
 
@@ -37,17 +37,17 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Front-end (UI/UX)
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </a>
 
-### Back-end
+### Back-end & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </a>
 
-### Segurança, IA & Infraestrutura
+### Infraestrutura, Segurança & Redes
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,aws,windows" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,aws,windows,linux,docker,cisco,kali,tensorflow" />
 </a>
 
 ---
