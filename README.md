@@ -9,7 +9,7 @@
 Estou ativamente buscando oportunidades de desenvolvimento (freelance e parcerias). Sinta-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosilv4/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoleosilva.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoleosilva.dev@.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 ---
