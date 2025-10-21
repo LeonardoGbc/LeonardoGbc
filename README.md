@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Leonardo Silva!
 
 ### Desenvolvedor Full-Stack | Foco em Front-end | Estudante Técnico SENAI
 
@@ -8,8 +8,8 @@
 
 Estou ativamente buscando oportunidades de desenvolvimento (freelance e parcerias). Sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosilv4/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoleosilva.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 ---
