@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Leonardo Silva!
+# 👋 Olá, eu sou [Seu Nome]!
 
-### Desenvolvedor Full-Stack | Foco em Front-end | Estudante Técnico SENAI
+### Desenvolvedor Full-Stack | Foco em Front-end | Especialista em Infraestrutura e IA
 
 ---
 
@@ -16,17 +16,18 @@ Estou ativamente buscando oportunidades de desenvolvimento (freelance e parceria
 
 ## 👤 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente aprimorando minhas habilidades no **Curso Técnico em Desenvolvimento de Sistemas no SENAI**. Minha jornada de aprendizado é focada em construir soluções **Full-Stack** com ênfase especial na qualidade e usabilidade do **Front-end**. Meu objetivo é transformar ideias em aplicações digitais eficientes e visualmente atraentes, unindo o rigor técnico da formação do SENAI com as necessidades dinâmicas do mercado.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente aprimorando minhas habilidades no **Curso Técnico em Desenvolvimento de Sistemas no SENAI**. Minha abordagem é **Full-Stack**, com foco na qualidade do **Front-end**, mas com uma base sólida em **Cibersegurança** e conceitos de **Inteligência Artificial (IA)**. Meu conhecimento em sistemas operacionais como **Windows** complementa minha capacidade de construir e manter ambientes de desenvolvimento seguros e eficientes. Meu objetivo é transformar ideias em aplicações digitais eficientes e visualmente atraentes.
 
 ---
 
 ## 🚀 Minha Proposta de Valor: Visão do Cliente
 
-Minha expertise está em transformar a visão de um negócio em uma **aplicação funcional e agradável**.
+Minha expertise está em transformar a visão de um negócio em uma **aplicação funcional, segura e agradável**.
 
-- **Foco Principal (Front-end):** Especializado em criar interfaces **intuitivas, responsivas e elegantes** utilizando as bibliotecas e frameworks mais atuais. Entrego performance e experiência do usuário (UX) de alta qualidade.
-- **Back-end:** Construo APIs e sistemas robustos, escaláveis e seguros, garantindo a integração perfeita entre Front e Back.
-- **Aprendizado Contínuo (SENAI):** Como estudante do curso Técnico, trago as **melhores práticas** e os fundamentos mais sólidos do mercado de desenvolvimento de sistemas para cada projeto.
+- **Foco Principal (Front-end):** Especializado em criar interfaces **intuitivas, responsivas e elegantes** utilizando as bibliotecas e frameworks mais atuais.
+- **Segurança Integrada:** Aplico conceitos de **Cibersegurança** desde a codificação até o deploy, garantindo a robustez da aplicação.
+- **Inovação com IA:** Utilizo fundamentos de **Inteligência Artificial** para integrar funcionalidades inteligentes e otimizar processos (APIs de Machine Learning, etc.).
+- **Ambiente Operacional:** Proficiência em ambientes **Windows** e infraestrutura Linux/Cloud para desenvolvimento e suporte.
 
 ---
 
@@ -44,10 +45,15 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase" />
 </a>
 
-### Ferramentas, Versionamento & Cloud
+### Segurança, IA & Infraestrutura
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,gcp" />
 </a>
+<br>
+<img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-Preven%C3%A7%C3%A3o-000000?style=for-the-badge&logo=securityadvisor&logoColor=white" alt="Cibersegurança" />
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-Machine_Learning-FF6700?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Inteligência Artificial" />
+<img src="https://img.shields.io/badge/OS_Profissional-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+
 
 ---
 
