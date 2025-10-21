@@ -54,11 +54,9 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ## 📊 Minhas Badges
 
-Minhas estatísticas demonstram a consistência e dedicação ao desenvolvimento.
+Minhas badges demonstram a consistência e dedicação ao desenvolvimento.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vue&hide_border=true&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vue&hide_border=true&langs_count=6&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
