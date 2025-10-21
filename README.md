@@ -1,26 +1,3 @@
-/**
- * Full-stack single-file profile app
- * Run: node app.js
- * - Optional env vars (create a .env file):
- *   PORT=4000
- *   GITHUB_TOKEN=your_github_token (optional, increases rate limits)
- *   GITHUB_USER=your_github_username (defaults to 'LeonardoGbc')
- *   SMTP_HOST, SMTP_PORT, SMTP_SECURE, SMTP_USER, SMTP_PASS, TO_EMAIL (optional for contact form)
- */
-
-const express = require('express')
-const axios = require('axios')
-const nodemailer = require('nodemailer')
-require('dotenv').config()
-
-const app = express()
-const PORT = process.env.PORT || 4000
-
-app.use(express.json())
-
-// Serve the single-page frontend
-app.get('/', (req, res) => {
-  res.type('html').send(`<!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
