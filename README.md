@@ -47,14 +47,14 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ### Segurança, IA & Infraestrutura
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,ai,gcp,aws,windows" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,ai,gcp,aws,windows,credly" />
 </a>
 
 ---
 
 ## 📊 Minhas Badges
 
-Minhas badges demonstram a consistência e dedicação ao desenvolvimento.
+Minhas badges demonstram a consistência e dedicação ao desenvolvimento
 
 
 
