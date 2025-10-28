@@ -55,8 +55,9 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 ## 📊 Minhas Badges
 
 Minhas badges demonstram a consistência e dedicação ao desenvolvimento
-
-
+<a href="https://www.credly.com/users/leosilva">
+  <img src="https://skillicons.dev">
+</a>
 
 ---
 
