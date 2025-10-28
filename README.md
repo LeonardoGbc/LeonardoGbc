@@ -54,6 +54,9 @@ Abaixo estão as ferramentas que utilizo para dar vida aos projetos:
 
 ## 📊 Minhas Badges
 
+### Minhas badges:
+
+Abaixo estão minhas badges:
 <a href="https://www.credly.com/users/leosilva">
   <img width="58px" src="https://img.icons8.com/?size=100&id=imamZukNSZr3&format=png&color=000000">
 </a>
